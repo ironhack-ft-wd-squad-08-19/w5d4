@@ -1,0 +1,74 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "London"
+    },
+    {
+      "id": 2,
+      "name": "Berlin"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Tarik Amir",
+      "role": "Drug Kingpin",
+      "quote": "Keine Freiheit ohne Blutzoll",
+      "id": 1
+    },
+    {
+      "name": "Tarik Amir",
+      "role": "Drug Kingpin",
+      "quote": "Keine Freiheit ohne Blutzoll",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "Rick Sanchez",
+      "role": "Alcoholic Genius",
+      "quote": "Weddings are basically funerals with cake",
+      "id": 4
+    },
+    {
+      "name": "Rick Sanchez",
+      "role": "Alcoholic Genius",
+      "quote": "Weddings are basically funerals with cake",
+      "id": 5
+    },
+    {
+      "name": "Tarik Amir",
+      "role": "Drug Kingpin",
+      "quote": "Keine Freiheit ohne Blutzoll",
+      "id": 6
+    },
+    {
+      "name": "Tarik Amir",
+      "role": "Drug Kingpin",
+      "quote": "Kein Freiheit ohne Blutzoll",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "Tarik Amir",
+      "role": "Drug Kingpin",
+      "quote": "Kein Freiheit ohne Blutzoll",
+      "id": 9
+    },
+    {
+      "name": "Tarik Amir",
+      "role": "Drug Kingpin",
+      "quote": "Kein Freiheit ohne Blutzoll",
+      "id": 10
+    },
+    {
+      "name": "Wrappy Bouncer",
+      "role": "Street dancer",
+      "quote": "I´m the dopest of em all",
+      "id": 11
+    }
+  ]
+}
